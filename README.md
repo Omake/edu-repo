@@ -1,3 +1,0 @@
-# edu-repo
-
-Test
